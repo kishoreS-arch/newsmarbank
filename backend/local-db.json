@@ -1,0 +1,20 @@
+{
+  "9876543210": {
+    "_id": "demo_9876543210",
+    "displayName": "Test User",
+    "email": "test@smartbank.app",
+    "phone": "9876543210",
+    "balance": 100000,
+    "mpin": "1234",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImRlbW9fOTg3NjU0MzIxMCIsImlhdCI6MTY3OTk5OTk5OSwiZXhwIjoxNjc5OTk5OTk5fQ"
+  },
+  "5446464545": {
+    "_id": "demo_5446464545",
+    "displayName": "Ashwin",
+    "email": "ashwinkish23@gmail.com",
+    "phone": "5446464545",
+    "balance": 100000,
+    "mpin": "1111",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImRlbW9fNTQ0NjQ2NDU0NSIsImlhdCI6MTc3NDk3NTUzMSwiZXhwIjoxNzc3NTY3NTMxfQ.RqqNPFIG3e9NR8fibtAchlOGatuXRvmRVUTtWrX7UrU"
+  }
+}
